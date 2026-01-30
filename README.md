@@ -7,12 +7,19 @@ This project showcases my skills, projects, experience, and certifications as a 
 📄 Resume: Available for download on the website
 
 ✨ Features
+
 🌙 Light / Dark mode toggle
+
 📱 Fully responsive design (mobile, tablet, desktop)
+
 🧭 Smooth navigation with sticky navbar
+
 🎯 Interactive project slider (carousel)
+
 🧠 Well-structured sections (About, Skills, Projects, Experience, Certifications)
+
 📩 Contact form with Formspree integration
+
 ⚡ Clean UI with modern CSS styling
 
 🛠️ Tech Stack
