@@ -4,9 +4,10 @@ Welcome to my personal portfolio website!
 
 This project showcases my skills, projects, experience, and certifications as a Full Stack Web Developer (MERN Stack Enthusiast).
 
-🔗 Live Demo: (Add your deployed link here – Netlify / GitHub Pages)
+🔗 Live Demo:  https://sakshi72004.github.io/Personal-Portfolio/
 
 📄 Resume: Available for download on the website
+
 
 ✨ Features
 
@@ -24,44 +25,45 @@ This project showcases my skills, projects, experience, and certifications as a 
 
 ⚡ Clean UI with modern CSS styling
 
-🛠️ Tech Stack
+
+🛠️ Tech Stack:
 
 Frontend
 
-HTML5
+  HTML5
 
-CSS3
+  CSS3
+  
+  JavaScript (ES6)
 
-JavaScript (ES6)
+Tools & Platforms:
 
-Tools & Platforms
+  Git & GitHub
 
-Git & GitHub
+  VS Code
 
-VS Code
+  Font Awesome
 
-Font Awesome
+  Google Fonts
 
-Google Fonts
+  Formspree (Contact Form)
+  
 
-Formspree (Contact Form)
+🚀 Projects Highlighted:
 
-🚀 Projects Highlighted
-
-Personal Finance Management System
-
+Personal Finance Management System:
 Track income and expenses with real-time insights.
 HealthConnect
 
 Healthcare portal for appointment booking and medical record management.
 
-Car Rental System
-
+Car Rental System:
 Vehicle booking platform with admin and customer management features.
 
 👉 Each project includes a GitHub repository link for code review.
 
-🧩 What I Learned
+
+🧩 What I Learned:
 
 Building responsive layouts using Flexbox & Media Queries
 
@@ -75,7 +77,8 @@ Writing clean, maintainable frontend code
 
 Deploying projects using GitHub
 
-📬 Contact Me
+
+📬 Contact Me:
 
 📧 Email: sakshipawar72004@gmail.com
 
